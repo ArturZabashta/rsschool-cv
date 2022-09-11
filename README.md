@@ -1,1 +1,1 @@
-https://ArturZabashta.github.io/rsschool-cv/
+https://ArturZabashta.github.io/rsschool-cv/index.html
